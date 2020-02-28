@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78189196978",
+    "firebase_url": "https://final-8998a.firebaseio.com",
+    "project_id": "final-8998a",
+    "storage_bucket": "final-8998a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78189196978:android:4168dcb0e36b7bcae5fbab",
+        "android_client_info": {
+          "package_name": "com.example.gogreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78189196978-v805mbe18cm912orh06bi5p1g2ta0q04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqW7wuo_HuSKacvQjMVu8fsoLuIdzXDqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78189196978-v805mbe18cm912orh06bi5p1g2ta0q04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
